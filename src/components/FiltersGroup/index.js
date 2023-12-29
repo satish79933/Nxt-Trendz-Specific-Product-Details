@@ -1,6 +1,6 @@
 import {BsSearch} from 'react-icons/bs'
 
-import './index.css'
+import './index_copy.css'
 
 const FiltersGroup = props => {
   const renderRatingsFiltersList = () => {

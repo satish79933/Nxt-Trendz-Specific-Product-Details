@@ -29,7 +29,7 @@ class ProductItemDetails extends Component {
     this.getProductData()
   }
 
-  getProductData = data => ({
+  getFormattedData = data => ({
     availability: data.availability,
     brand: data.brand,
     description: data.description,
